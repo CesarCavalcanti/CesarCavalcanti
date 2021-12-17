@@ -1,8 +1,8 @@
 ## Oiii eu sou o Cesar Sena, Desenvolvedor backend !
 <div align="center">
   <a href="https://github.com/CesarCavalcanti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CesarCavalcanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarCavalcanti&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=CesarCavalcanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarCavalcanti&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Sena-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
