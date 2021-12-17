@@ -1,4 +1,4 @@
-## Oiii eu sou o Cesar Sena, Desenvolvedor backend !
+## Olá seja bem vindo! Eu me chamo Cesar, sou Desenvolvedor backend !
 <div align="center">
   <a href="https://github.com/CesarCavalcanti">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CesarCavalcanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
