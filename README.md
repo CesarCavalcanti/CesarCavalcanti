@@ -1,8 +1,9 @@
-- 👋 Oi, eu sou @CesarCavalcanti
-- 👀 Me interesso em programação back-end 
-- 🌱 Atualmente estou aprendendo a linguagem Java
-- 💞️ Estou procurando colaborar em tudo que eu puder 
-- 📫 Me encontre no linkedin https://www.linkedin.com/in/cesar-sena-62945120a/
+## Oiii eu sou o Cesar Sena, desenvolvedor back end!
+<div align="center">
+  <a href="https://github.com/CesarCavalcanti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CesarCavalcanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarCavalcanti&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!---
 CesarCavalcanti/CesarCavalcanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
